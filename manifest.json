@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Background Image Chnager",
+  "name": "Background Image Changer",
   "version": "0.1",
   "description": "Chrome Extension for changing background images.",
   "content_scripts": [{
